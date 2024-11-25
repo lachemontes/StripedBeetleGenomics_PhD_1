@@ -30,7 +30,7 @@
 
 - **Annotation Process**  
   - Utilized **MAKER** and **BRAKER** pipelines.  
-  - Annotated **17,076 raw genes**, refined to **12,515 high-quality annotations** (74.4% annotation rate).  
+  - Annotated **17,076 raw genes**, refined to **12,515 high-quality annotations** (74.4% annotation rate) With InterPro.  
 
 ### 2. **Orthology and Evolutionary Analysis**  
 - Conducted orthology analysis with **Orthofinder**:  
