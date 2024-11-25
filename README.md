@@ -1,4 +1,4 @@
-# **StripedBeetleGenomics_PhD-i**  
+# **StripedBeetleGenomics_Project_3_PhD**  
 **Comparative genomics and orthology analysis of the striped ambrosia beetle, *Trypodendron lineatum*: Functional, evolutionary, and ecological implications**  
 
 ---
