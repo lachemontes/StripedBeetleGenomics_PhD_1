@@ -33,10 +33,15 @@ Additionally, Illumina short-read sequencing provided 10X Chromium libraries for
 
 ### Evidence data for genome annotation with MAKER and BRAKER
 
-All the data was downloaded from geneBank from RefSeq except for `Dendroctonus_valens` and `Ips_typographus` .  [Data for Ipstypographus available here](https://figshare.com/articles/dataset/Ips_typographus_genome_annotations_and_supporting_data/14503065)
+All the data was downloaded from geneBank from RefSeq except for `Dendroctonus_valens` and `Ips_typographus` . 
+
+[Data for Ips typographus available here](https://figshare.com/articles/dataset/Ips_typographus_genome_annotations_and_supporting_data/14503065)
+
+[Data for Dendroctonus_valens available here](https://figshare.com/articles/dataset/The_genome_assembly_and_annotation_data_of_the_red_turpentine_beetle_Dendroctonus_valens/19999844)
 
 ### Evidence data for Orthology analysis
 
+All the data was downloaded from geneBank from RefSeq for the following beetle species.
 
 **Atum**, Aethina tumida;
 
