@@ -33,7 +33,30 @@ Additionally, Illumina short-read sequencing provided 10X Chromium libraries for
 
 ### Evidence data for genome annotation with MAKER and BRAKER
 
+All the data was downloaded from geneBank from RefSeq except for `Dendroctonus_valens` and `Ips_typographus` .  [Data for Ipstypographus available here](https://figshare.com/articles/dataset/Ips_typographus_genome_annotations_and_supporting_data/14503065)
+
 ### Evidence data for Orthology analysis
+
+
+**Atum**, Aethina tumida;
+
+**Cmac**, Callosobruchus maculatus;
+
+**Dpon**, Dendroctonus ponderosae;
+
+**Dvir**, Diabrotica virgifera;
+
+**Hham**, Hypothenemus hampei;
+
+**Ityp**, Ips typographus;
+
+**Ldec**, Leptinotarsa decemlineata;
+
+**Nves**, Nicrophorus vespilloides;
+
+**Otau**, Onthophagus taurus;
+
+**Tcas**, Tribolium castaneum;
 
 ## Analysis
 
