@@ -1,9 +1,9 @@
-# **StripedBeetleGenomics_Project_3_PhD**  
+# **StripedBeetleGenomics_Project_3_PhD**  🪲💻🧬
 **Comparative genomics and orthology analysis of the striped ambrosia beetle, *Trypodendron lineatum*: Functional, evolutionary, and ecological implications**  
 
 ---
 
-## **Species Background**  
+## **Species Background**  🪲
 - *Trypodendron lineatum* is a significant pest in Holarctic conifer forests.  
 - Unlike bark beetles, it bores into xylem rather than phloem, primarily targeting stressed or dying conifers.  
 - It farms a fungal mutualist, *Phialophoropsis ferruginea*, which aids in nutrient acquisition and counters tree defense mechanisms.  
@@ -11,14 +11,14 @@
 
 ---
 
-## **Genomic Insights**  
+## **Genomic Insights**  🧬
 - *T. lineatum* has fewer chemoreceptors compared to other scolytine beetles.  
   - This reduction is due to fewer receptor lineage radiations and the absence of alternative splicing.  
   - Its streamlined chemosensory system reflects its ecological specialization.  
 
 ---
 
-## **My Research Contributions**  
+## **My Research Contributions**  👩‍💻
 
 ### 1. **Comparative Genomics and Genome Assembly**  
 - **Genome Assembly**  
@@ -45,5 +45,5 @@
 
 ---
 
-## **Reproducibility**  
+## **Reproducibility**  🔄 
 All scripts and a detailed Markdown guide are provided to ensure the reproducibility of our findings.  
